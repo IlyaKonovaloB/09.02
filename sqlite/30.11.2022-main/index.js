@@ -123,3 +123,4 @@ server.listen(port, () => {
 	console.log("\x1b[32m%s\x1b[0m", `http://localhost:${port}/`);
 });
 module.exports = { server, app };
+//https://docs.google.com/document/d/12xHOQSPAoCp9ixvjXZtyH0NyWPxNCxgOAIqGQyoid8Q/edit
